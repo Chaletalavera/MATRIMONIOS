@@ -1,0 +1,7 @@
+{
+  "name": "Alianza - Mentor Matrimonial Cristiano",
+  "description": "Una plataforma integral para matrimonios que combina teología del pacto, psicometría relacional (DISC y Eneagrama) e inteligencia artificial para transformar la inercia matrimonial en intencionalidad consciente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
